@@ -1,15 +1,13 @@
 //
 //  APIManager.swift
-//  PPL
+//  Photo Viewer
 //
-//  Created by cdn68 on 31/05/18.
+//  Created by Ambuj Shukla on 29/06/18.
 //  Copyright © 2018 cdn. All rights reserved.
 //
 
 import Foundation
 import Alamofire
-
-private let InvalidAccessToken: Int = 2
 
 class APIManager {
         
