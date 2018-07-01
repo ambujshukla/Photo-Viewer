@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Photo Viewer
+
+  Created by cdn68 on 29/06/18.
+  Copyright © 2018 cdn. All rights reserved.
+*/
+
+"title.error.occur" = "Some error occured. Please try again";
+"title.no.internet" = "Please check your internet connection.";
+"app.title" = "Photo Viewer";
+"title.instagram.feeds" = "Instagram Feeds";
+"title.error.nodata" = "No data found. Please try again.";
